@@ -1,5 +1,7 @@
 import lyrics
-def Main():
+
+
+def main_():
     twelve = lyrics.song_lyrics
     for each in twelve:
         print(each)
@@ -7,4 +9,4 @@ def Main():
 
 
 if __name__ == '__main__':
-    Main()
+    main_()
