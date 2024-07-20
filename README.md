@@ -1,1 +1,2 @@
 # Sesame Street Pinball Song
+To use, sync this with the video on Sesame Street during the main riff to sing along. Each line displays for one second, which in my mind is how long each element of the beat takes place. There are no bells or whistles to this script; I got bored one day, and decided to make this happen. Taught me a lot about using time in a script. It was fun, and hope it is as enjoyable for you as it was for me! Happy coding!
